@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------------
+Name: idea_manager
+Language(s): C++
+Summary: A program to append to an idea file following a specific format.
+
+List of potential issues or notes:
+    1. Getting the dashed lines to match the longest line of the instance.
+    2. Dealing with file I/O.
+    3. Making the program easy to use, such that the idea is easily facilitated.
+--------------------------------------------------------------------------------
+
